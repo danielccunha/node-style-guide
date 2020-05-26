@@ -1,4 +1,4 @@
-const users = [{ name: "Daniel", role: "Developer" }];
+const users = [{ name: 'Daniel', role: 'Developer' }];
 
 class UserController {
   async index(request, response) {
